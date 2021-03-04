@@ -81,9 +81,6 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
         actions:
-          - label: Learn More
-            url: /overview
-            style: link
           - label: lorem-ipsum
             url: '#'
             style: link

@@ -33,6 +33,13 @@ sections:
           - label: View Posts
             url: /blog
             style: link
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
       - title: Style Guide
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam

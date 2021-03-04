@@ -33,6 +33,22 @@ sections:
           - label: View Posts
             url: /blog
             style: link
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
       - title: Style Guide
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam

@@ -42,21 +42,6 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
-            type: action
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
